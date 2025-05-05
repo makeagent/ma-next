@@ -1,0 +1,5 @@
+[build]
+  base = "."
+  command = "pnpm build"
+  publish = "packages/web/.next"
+
